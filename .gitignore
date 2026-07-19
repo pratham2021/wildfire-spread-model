@@ -1,5 +1,5 @@
 *.html
-data/
+data/*.csv
 .DS_Store
 notebooks/.DS_Store
 
